@@ -10,6 +10,7 @@ To add something to the list, create a PR that adheres to the following guidelin
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested packages should be tested and documented.
+-  Toy/ BATA (Build and throw away) projects are not allowed. Side projects are ok to be added if they help users to achieve a use case (they should be under Community Tools).
 - The pull request should have a meaningful title and include a link to the package / resource and why it's awesome.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[resource](link) - Description.`
