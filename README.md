@@ -70,6 +70,7 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 ## Online Courses
 
 - [Build a Full-Stack App with Next.js, Supabase & Prisma](https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224#reviews) - Learn to build a full-stack application from scratch using some of the best modern web technologies: React / Next.js, Prisma, and Supabase. Free course by [GrÃ©gory D'Angelo](https://twitter.com/gdangel0).
+- [Cache Supabase data at the Edge with Cloudflare Workers and KV Storage](https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959) -  Featured at [Cloudflare x Supabase Developer Meetup](https://t.co/sqmDQahsA4), [Jon Meyers](https://twitter.com/jonmeyers_io) teach devs how to query, perform cache crud operations on  Supabase with KV Storage using Cloudflare workers through a free course. 
 
 ## Technical Guides/Articles
 
