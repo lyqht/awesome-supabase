@@ -34,6 +34,7 @@ This list tries to cover what is awesome about the product and its community! ğŸ
 ## Community Starters
 
 - [Vuepabase](https://github.com/JMaylor/vuepabase) - A Vue3 Supabase starter, with Pinia, Vue-router 4, TailwindCSS, Vitest, Cypress and more.
+- [Supastarter](https://supastarter.dev) - A Supabase starter with Next.js, authentication, mail templates, landing page, dashboard and blog.
 
 ## Data Migration Tools
 
