@@ -13,6 +13,7 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 - [Community Tools](#community-tools)
 - [UI Libraries](#ui-libraries)
 - [Videos, Livestreams, Talks](#videos-livestreams-talks)
+- [Online Courses](#online-courses)
 - [Technical Guides/Articles](#technical-guidesarticles)
 - [Other interesting articles](#other-interesting-articles)
 
@@ -65,6 +66,10 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 - [Supabase Happy Hours](https://www.youtube.com/watch?v=IJoc6dKy03c&list=PL5S4mPUpp4Ouyw8bMupHgxC3VL9BLZzvV) -Â A signature ongoing series of livestreams hosted by the Supabase core team, where they try to create side projects using Supabase APIs and engage with the community. Hosted by core members [Thor Schaeff](https://thorweb.dev/), [Jon Meyers](https://jonmeyers.io/), Alaister Young and [Tyler Shukert](https://dshukertjr.dev/).
 - [Supabase Developer Stories](https://www.youtube.com/watch?v=QAm1x7KaLq4&list=PL5S4mPUpp4OuzQN-a_FY3OZQuYo4NmXvb) - An ongoing series where SaaS founders/co-founders that use Supabase to showcase their products.
 - [CityJS 2022 Talk on Building Billy with Supabase](https://www.youtube.com/watch?v=UiANV3uqT04&t=6841s) - A talk on how a React Native expense tracker side project is built with Supabase, by a SupaSquad member [Estee Tey](https://esteetey.dev/).
+
+## Online Courses
+
+- [Build a Full-Stack App with Next.js, Supabase & Prisma](https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224#reviews) - Learn to build a full-stack application from scratch using some of the best modern web technologies: React / Next.js, Prisma, and Supabase. Free course by [GrÃ©gory D'Angelo](https://twitter.com/gdangel0).
 
 ## Technical Guides/Articles
 
