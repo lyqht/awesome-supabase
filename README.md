@@ -76,6 +76,7 @@ This list tries to cover what is awesome about the product and its community! �
 ## Technical Guides/Articles
 
 - [Firebase to Supabase](https://github.com/supabase-community/firebase-to-supabase) - A collection of guides of migrating from different components of Firebase such as Auth, Firestore, Storage, Functions to Supabase.
+- [Upload Files To Supabase Storage using Retool](https://imknight.com/upload-files-to-supabase-storage-using-retool) - An article to share how to handle uploading files to Supabase through the nocode admin panel builder Retool.
 
 ## Other interesting articles
 
