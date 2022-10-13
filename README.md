@@ -71,11 +71,13 @@ This list tries to cover what is awesome about the product and its community! �
 ## Online Courses
 
 - [Build a Full-Stack App with Next.js, Supabase & Prisma](https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224) - Learn to build a full-stack application from scratch using some of the best modern web technologies: React / Next.js, Prisma, and Supabase. Free course by [Grégory D'Angelo](https://twitter.com/gdangel0).
-- [Cache Supabase data at the Edge with Cloudflare Workers and KV Storage](https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959) -  Featured at [Cloudflare x Supabase Developer Meetup](https://t.co/sqmDQahsA4), [Jon Meyers](https://twitter.com/jonmeyers_io) teach devs how to query, perform cache crud operations on  Supabase with KV Storage using Cloudflare workers through a free course. 
-
-## Technical Guides/Articles
+- [Cache Supabase data at the Edge with Cloudflare Workers and KV Storage](https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959) - Teaches devs how to query, perform cache crud operations on  Supabase with KV Storage using Cloudflare workers through a free course. 
+Featured at [Cloudflare x Supabase Developer Meetup](https://t.co/sqmDQahsA4). Free course by [Jon Meyers](https://twitter.com/jonmeyers_io).
+## Integration Guides
 
 - [Firebase to Supabase](https://github.com/supabase-community/firebase-to-supabase) - A collection of guides of migrating from different components of Firebase such as Auth, Firestore, Storage, Functions to Supabase.
+- [How to Manage Your Supabase Database with Directus](https://directus.io/guides/directus-plus-supabase/) - Directus Studio provides a means to browse, manage, and visualize database content through a no-code app and this guide shows how to setup Supabase with Directus.
+- [Supabase admin panel tutorial with Retool](https://retool.com/blog/supabase-tutorial-admin-panel/) - Retool helps teams to build internal tools quickly. Learn how to setup an admin panel using Retool and Supabase. Includes demo of [Retool REST API data generator](https://retool.com/api-generator/) which helps you easily generate structured data to be inserted into your DB.
 
 ## Other interesting articles
 
