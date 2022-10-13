@@ -14,7 +14,7 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 - [UI Libraries](#ui-libraries)
 - [Videos, Livestreams, Talks](#videos-livestreams-talks)
 - [Online Courses](#online-courses)
-- [Technical Guides/Articles](#technical-guidesarticles)
+- [Integration Guides](#integration-guides)
 - [Other interesting articles](#other-interesting-articles)
 
 ## Official Starters
@@ -42,6 +42,7 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 - [Supabase Schema](https://supabase-schema.vercel.app/) -Â Generate SQL scripts and database diagram with this handy tool. No sensitive information is required, only need the project url + anonymous key.
 - [Heroku to Supabase Importer](https://migrate.supabase.com/) - Given Heroku is ending free-tier support soon, if you have any Postgres DB that you want to continue supporting on your projects, migrating to Supabase will be a good choice. With this tool, it will be a breeze to migrate over. Here's [a guide](https://supabase.com/docs/guides/migrations/heroku) with a video for this migration process.
 - [Supabase DB to Google Sheets](https://github.com/jadynekena/supabase-googlesheet) - Tool to pull Supabase data into Google Sheets.
+- [Retool REST API data generator](https://retool.com/api-generator/) - Tool to generate structured data to be inserted into your PostgresDB.
 
 ## Supabase DX Tools
 
