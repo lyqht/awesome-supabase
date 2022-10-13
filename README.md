@@ -26,7 +26,7 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 - [React, supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-js-v2/user-management/react-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
 - [Solid, supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-js-v2/user-management/solid-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
 - [Svelte, supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-js-v2/user-management/svelte-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Flutter, supabase-js-v2, simple user management](https://github.com/supabase/examples/tree/main/supabase-flutter-v1/user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Flutter, supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-flutter-v1/user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
 - [Nextjs, supabase-js-v2, Slack Clone](https://github.com/supabase/examples/tree/main/supabase-js-v2/slack-clone/nextjs-slack-clone) - ![realtime](https://img.shields.io/badge/-realtime-orange)
 - [Svelte, supabase-js-v2, Todo list](https://github.com/supabase/examples/tree/main/supabase-js-v2/todo-list/sveltejs-todo-list) - ![database](https://img.shields.io/badge/-database-9cf)
 - [React Native, Stripe Payments](https://github.com/supabase-community/expo-stripe-payments-with-supabase-functions) - ![edge functions](https://img.shields.io/badge/-edge%20functions-darkgreen)
@@ -36,7 +36,7 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 
 - [Vuepabase](https://github.com/JMaylor/vuepabase) - A Vue3 Supabase starter, with Pinia, Vue-router 4, TailwindCSS, Vitest, Cypress and more.
 - [Supastarter](https://supastarter.dev) - A Supabase starter with Next.js, authentication, mail templates, landing page, dashboard and blog.
-
+- [RedwoodJS Supabase Quickstart](https://github.com/redwoodjs/redwoodjs-supabase-quickstart) - Supabase Quickstart example app with RedwoodJS.
 ## Data Migration Tools
 
 - [Supabase Schema](https://supabase-schema.vercel.app/) -Â Generate SQL scripts and database diagram with this handy tool. No sensitive information is required, only need the project url + anonymous key.
