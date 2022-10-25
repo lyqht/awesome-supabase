@@ -37,6 +37,7 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 - [Vuepabase](https://github.com/JMaylor/vuepabase) - A Vue3 Supabase starter, with Pinia, Vue-router 4, TailwindCSS, Vitest, Cypress and more.
 - [Supastarter](https://supastarter.dev) - A Supabase starter with Next.js, authentication, mail templates, landing page, dashboard and blog.
 - [RedwoodJS Supabase Quickstart](https://github.com/redwoodjs/redwoodjs-supabase-quickstart) - Supabase Quickstart example app with RedwoodJS.
+- [Basejump](https://usebasejump.com) - A NextJS starter with teams, personal accounts, invitations, Tailwind, i18n. Fully tested schema.
 ## Data Migration Tools
 
 - [Supabase Schema](https://supabase-schema.vercel.app/) -Â Generate SQL scripts and database diagram with this handy tool. No sensitive information is required, only need the project url + anonymous key.
