@@ -19,16 +19,16 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 
 ## Official Starters
 
-- [Expo, supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-js-v2/user-management/expo-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Nextjs (TS), supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-js-v2/user-management/nextjs-ts-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Nuxt3, supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-js-v2/user-management/nuxt3-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Nuxt, supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-js-v2/user-management/nuxtjs-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [React, supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-js-v2/user-management/react-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Solid, supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-js-v2/user-management/solid-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Svelte, supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-js-v2/user-management/svelte-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Flutter, supabase-js-v2](https://github.com/supabase/examples/tree/main/supabase-flutter-v1/user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Nextjs, supabase-js-v2, Slack Clone](https://github.com/supabase/examples/tree/main/supabase-js-v2/slack-clone/nextjs-slack-clone) - ![realtime](https://img.shields.io/badge/-realtime-orange)
-- [Svelte, supabase-js-v2, Todo list](https://github.com/supabase/examples/tree/main/supabase-js-v2/todo-list/sveltejs-todo-list) - ![database](https://img.shields.io/badge/-database-9cf)
+- [Expo, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/expo-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Nextjs (TS), supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/nextjs-ts-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Nuxt3, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxt3-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Nuxt, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxtjs-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [React, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/react-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Solid, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/solid-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Svelte, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/svelte-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Flutter, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/flutter-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Nextjs, supabase-js-v2, Slack Clone](https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone) - ![realtime](https://img.shields.io/badge/-realtime-orange)
+- [Svelte, supabase-js-v2, Todo list](https://github.com/supabase/supabase/tree/master/examples/todo-list/sveltejs-todo-list) - ![database](https://img.shields.io/badge/-database-9cf)
 - [React Native, Stripe Payments](https://github.com/supabase-community/expo-stripe-payments-with-supabase-functions) - ![edge functions](https://img.shields.io/badge/-edge%20functions-darkgreen)
 - [Flutter, Stripe Payments](https://github.com/supabase-community/flutter-stripe-payments-with-supabase-functions) - ![edge functions](https://img.shields.io/badge/-edge%20functions-darkgreen)
 
