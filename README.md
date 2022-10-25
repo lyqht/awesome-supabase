@@ -34,6 +34,7 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 
 ## Community Starters
 
+- [Basejump](https://usebasejump.com) - A NextJS starter with teams, personal accounts, invitations, Tailwind, i18n. Fully tested schema.
 - [Vuepabase](https://github.com/JMaylor/vuepabase) - A Vue3 Supabase starter, with Pinia, Vue-router 4, TailwindCSS, Vitest, Cypress and more.
 - [Supastarter](https://supastarter.dev) - A Supabase starter with Next.js, authentication, mail templates, landing page, dashboard and blog.
 - [RedwoodJS Supabase Quickstart](https://github.com/redwoodjs/redwoodjs-supabase-quickstart) - Supabase Quickstart example app with RedwoodJS.
