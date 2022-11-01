@@ -83,5 +83,6 @@ Featured at [Cloudflare x Supabase Developer Meetup](https://t.co/sqmDQahsA4). F
 
 ## Other interesting articles
 
+- [How I Migrated 1000+ Users from Firebase to Supabase](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - This articles walks through the process of how Fleeting Notes (a note-taking application) migrated from Firebase to Supabase.
 - [How to market to developers on Twitter: Learnings from 4 months of Supabase feed](https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase) - This article explores how Supabase is rapidly growing on Twitter and how they market their product.
 
