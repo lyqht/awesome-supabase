@@ -42,7 +42,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Basejump](https://usebasejump.com) - NextJS starter with teams, personal accounts, invitations, Tailwind, i18n. Fully tested schema.
 ## Data Migration Tools
 
-- [Supabase Schema](https://supabase-schema.vercel.app/) - Generate SQL scripts and database diagram with this handy tool. No sensitive information is required, only need the project url + anonymous key.
+- [Supabase Schema](https://supabase-schema.vercel.app/) - Generate SQL scripts and database diagram with this handy tool. No sensitive information is required, only need the project url + anonymous key.
 - [Heroku to Supabase Importer](https://migrate.supabase.com/) - Given Heroku is ending free-tier support soon, if you have any Postgres DB that you want to continue supporting on your projects, migrating to Supabase will be a good choice. With this tool, it will be a breeze to migrate over. Here's [a guide](https://supabase.com/docs/guides/migrations/heroku) with a video for this migration process.
 - [Supabase DB to Google Sheets](https://github.com/jadynekena/supabase-googlesheet) - Tool to pull Supabase data into Google Sheets.
 - [Retool REST API data generator](https://retool.com/api-generator) - Tool to generate structured data to be inserted into your PostgresDB.
@@ -68,7 +68,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Videos, Livestreams, Talks
 
 - [Is Supabase Legit? Firebase Alternative Breakdown](https://youtu.be/WiwfiVdfRIc) - Video by Fireship.io on Supabase.
-- [Supabase Happy Hours](https://www.youtube.com/watch?v=IJoc6dKy03c&list=PL5S4mPUpp4Ouyw8bMupHgxC3VL9BLZzvV) - A signature ongoing series of livestreams hosted by the Supabase core team, where they try to create side projects using Supabase APIs and engage with the community. Hosted by core members [Thor Schaeff](https://thorweb.dev/), [Jon Meyers](https://jonmeyers.io/), Alaister Young and [Tyler Shukert](https://dshukertjr.dev/).
+- [Supabase Happy Hours](https://www.youtube.com/watch?v=IJoc6dKy03c&list=PL5S4mPUpp4Ouyw8bMupHgxC3VL9BLZzvV) - A signature ongoing series of livestreams hosted by the Supabase core team, where they try to create side projects using Supabase APIs and engage with the community. Hosted by core members [Thor Schaeff](https://thorweb.dev/), [Jon Meyers](https://jonmeyers.io/), Alaister Young and [Tyler Shukert](https://dshukertjr.dev/).
 - [Supabase Developer Stories](https://www.youtube.com/watch?v=QAm1x7KaLq4&list=PL5S4mPUpp4OuzQN-a_FY3OZQuYo4NmXvb) - An ongoing series where SaaS founders/co-founders that use Supabase to showcase their products.
 - [CityJS 2022 Talk on Building Billy with Supabase](https://www.youtube.com/watch?v=UiANV3uqT04&t=6841s) - A talk on how a React Native expense tracker side project is built with Supabase, by a SupaSquad member [Estee Tey](https://esteetey.dev/).
 
@@ -79,12 +79,12 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 Featured at [Cloudflare x Supabase Developer Meetup](https://t.co/sqmDQahsA4). Free course by [Jon Meyers](https://twitter.com/jonmeyers_io).
 ## Integration Guides
 
-- [Firebase to Supabase](https://github.com/supabase-community/firebase-to-supabase) - A collection of guides of migrating from different components of Firebase such as Auth, Firestore, Storage, Functions to Supabase.
+- [Firebase to Supabase](https://github.com/supabase-community/firebase-to-supabase) - A collection of guides of migrating from different components of Firebase such as Auth, Firestore, Storage, Functions to Supabase.
 - [How to Manage Your Supabase Database with Directus](https://directus.io/guides/directus-plus-supabase/) - Directus Studio provides a means to browse, manage, and visualize database content through a no-code app and this guide shows how to setup Supabase with Directus.
 - [Supabase admin panel tutorial with Retool](https://retool.com/blog/supabase-tutorial-admin-panel/) - Retool helps teams to build internal tools quickly. Learn how to setup an admin panel using Retool and Supabase.
 
 ## Other interesting articles
 
-- [How to market to developers on Twitter: Learnings from 4 months of Supabase feed](https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase) - This article explores how Supabase is rapidly growing on Twitter and how they market their product.
+- [How to market to developers on Twitter: Learnings from 4 months of Supabase feed](https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase) - This article explores how Supabase is rapidly growing on Twitter and how they market their product.
 - [How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - This article walks through the process of how Fleeting Notes (a note-taking application) migrated from Firebase to Supabase in terms of Stripe integration and its databases.
 
