@@ -2,7 +2,9 @@
 
 > These guidelines are referenced from [awesome-quantified-self's contributing guidelines](https://github.com/woop/awesome-quantified-self/blob/master/contributing.md).
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md), and is licensed by [CC0 1.0 Universal](./LICENSE).
+
+By participating in this project you agree to abide by its terms.
 
 ## Adding an item to the awesome list
 
