@@ -1,6 +1,6 @@
 # Awesome Supabase  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Supabase is an awesome open source alternative to Firebase, where it provides you with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
+[Supabase](https://supabase.com/) is an awesome open source alternative to Firebase, where it provides you with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage.
 
 This list tries to cover what is awesome about the product and its community! 👁⚡️👁
 
@@ -22,14 +22,14 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Official Starters
 
 - [Expo, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/expo-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Nextjs (TS), supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/nextjs-ts-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
+- [Next.js (TS), supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/nextjs-ts-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
 - [Nuxt3, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxt3-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
 - [Nuxt, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/nuxtjs-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
 - [React, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/react-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
 - [Solid, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/solid-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
 - [Svelte, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/svelte-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
 - [Flutter, supabase-js-v2](https://github.com/supabase/supabase/tree/master/examples/user-management/flutter-user-management) - ![auth](https://img.shields.io/badge/-auth-informational)
-- [Nextjs, supabase-js-v2, Slack Clone](https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone) - ![realtime](https://img.shields.io/badge/-realtime-orange)
+- [Next.js, supabase-js-v2, Slack Clone](https://github.com/supabase/supabase/tree/master/examples/slack-clone/nextjs-slack-clone) - ![realtime](https://img.shields.io/badge/-realtime-orange)
 - [Svelte, supabase-js-v2, Todo list](https://github.com/supabase/supabase/tree/master/examples/todo-list/sveltejs-todo-list) - ![database](https://img.shields.io/badge/-database-9cf)
 - [React Native, Stripe Payments](https://github.com/supabase-community/expo-stripe-payments-with-supabase-functions) - ![edge functions](https://img.shields.io/badge/-edge%20functions-darkgreen)
 - [Flutter, Stripe Payments](https://github.com/supabase-community/flutter-stripe-payments-with-supabase-functions) - ![edge functions](https://img.shields.io/badge/-edge%20functions-darkgreen)
@@ -39,7 +39,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Vuepabase](https://github.com/JMaylor/vuepabase) - Vue3 Supabase starter, with Pinia, Vue-router 4, TailwindCSS, Vitest, Cypress and more.
 - [Supastarter](https://supastarter.dev) - Supabase starter with Next.js, authentication, mail templates, landing page, dashboard and blog.
 - [RedwoodJS Supabase Quickstart](https://github.com/redwoodjs/redwoodjs-supabase-quickstart) - Supabase Quickstart example app with RedwoodJS.
-- [Basejump](https://usebasejump.com) - NextJS starter with teams, personal accounts, invitations, Tailwind, i18n. Fully tested schema.
+- [Basejump](https://usebasejump.com) - Next.js starter with teams, personal accounts, invitations, Tailwind, i18n. Fully tested schema.
 ## Data Migration Tools
 
 - [Supabase Schema](https://supabase-schema.vercel.app/) - Generate SQL scripts and database diagram with this handy tool. No sensitive information is required, only need the project url + anonymous key.
@@ -85,6 +85,6 @@ Featured at [Cloudflare x Supabase Developer Meetup](https://t.co/sqmDQahsA4). F
 
 ## Other interesting articles
 
-- [How to market to developers on Twitter: Learnings from 4 months of Supabase feed](https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase) - This article explores how Supabase is rapidly growing on Twitter and how they market their product.
-- [How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - This article walks through the process of how Fleeting Notes (a note-taking application) migrated from Firebase to Supabase in terms of Stripe integration and its databases.
+- [How to market to developers on Twitter: Learnings from 4 months of Supabase feed](https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase) - Analyzes growth marketing strategy of Supabase, especially on Twitter.
+- [How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - Walks through the process of how Fleeting Notes (a note-taking application) migrated from Firebase to Supabase in terms of Stripe integration and its databases.
 
