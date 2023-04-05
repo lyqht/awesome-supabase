@@ -13,9 +13,8 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Data Migration Tools](#data-migration-tools)
 - [Supabase DX Tools](#supabase-dx-tools)
 - [Community Tools](#community-tools)
-- [UI Libraries](#ui-libraries)
-- [Videos, Livestreams, Talks](#videos-livestreams-talks)
 - [Online Courses](#online-courses)
+- [Videos, Podcasts, Livestreams, Talks](#videos-podcasts-livestreams-talks)
 - [Integration Guides](#integration-guides)
 - [Other interesting articles](#other-interesting-articles)
 
@@ -65,21 +64,23 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) - Collection of framework specific Cache utilities for working with Supabase.
 - [Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm) - Tool to run Postgres in the browser.
 
-## Videos, Livestreams, Talks
-
-- [Is Supabase Legit? Firebase Alternative Breakdown](https://youtu.be/WiwfiVdfRIc) - Video by Fireship.io on Supabase.
-- [Supabase Happy Hours](https://www.youtube.com/watch?v=IJoc6dKy03c&list=PL5S4mPUpp4Ouyw8bMupHgxC3VL9BLZzvV) - A signature ongoing series of livestreams hosted by the Supabase core team, where they try to create side projects using Supabase APIs and engage with the community. Hosted by core members [Thor Schaeff](https://thorweb.dev/), [Jon Meyers](https://jonmeyers.io/), Alaister Young and [Tyler Shukert](https://dshukertjr.dev/).
-- [Supabase Developer Stories](https://www.youtube.com/watch?v=QAm1x7KaLq4&list=PL5S4mPUpp4OuzQN-a_FY3OZQuYo4NmXvb) - An ongoing series where SaaS founders/co-founders that use Supabase to showcase their products.
-- [CityJS 2022 Talk on Building Billy with Supabase](https://www.youtube.com/watch?v=UiANV3uqT04&t=6841s) - A talk on how a React Native expense tracker side project is built with Supabase, by a SupaSquad member [Estee Tey](https://esteetey.dev/).
-- [Build An Image Gallery With Supabase Storage and React](https://www.youtube.com/watch?v=8tfdY0Sf2rA) - A tutorial on using Supabase to upload & serve images.
-- [Vue JS Essentials: A Beginners Series on Pinia, Vitest, and Supabase](https://www.youtube.com/watch?v=W-D6h7Jne18) - A great series of in-depth tutorials, includes frontend tests and mocks to emulate a production grade project.
-
 
 ## Online Courses
 
 - [Build a Full-Stack App with Next.js, Supabase & Prisma](https://themodern.dev/courses/build-a-fullstack-app-with-nextjs-supabase-and-prisma-322389284337222224) - Learn to build a full-stack application from scratch using some of the best modern web technologies: React / Next.js, Prisma, and Supabase. Free course by [Grégory D'Angelo](https://twitter.com/gdangel0).
 - [Cache Supabase data at the Edge with Cloudflare Workers and KV Storage](https://egghead.io/courses/cache-supabase-data-at-the-edge-with-cloudflare-workers-and-kv-storage-883c7959) - Teaches devs how to query, perform cache crud operations on  Supabase with KV Storage using Cloudflare workers through a free course. 
 Featured at [Cloudflare x Supabase Developer Meetup](https://t.co/sqmDQahsA4). Free course by [Jon Meyers](https://twitter.com/jonmeyers_io).
+- [Vue JS Essentials: A Beginners Series on Pinia, Vitest, and Supabase](https://www.youtube.com/watch?v=W-D6h7Jne18) - A great series of in-depth tutorials, includes frontend tests and mocks to emulate a production grade project.
+
+## Videos, Podcasts, Livestreams, Talks
+
+- [Is Supabase Legit? Firebase Alternative Breakdown](https://youtu.be/WiwfiVdfRIc) - Video by Fireship.io on Supabase.
+- [Supabase Happy Hours](https://www.youtube.com/watch?v=IJoc6dKy03c&list=PL5S4mPUpp4Ouyw8bMupHgxC3VL9BLZzvV) - A signature ongoing series of livestreams hosted by the Supabase core team, where they try to create side projects using Supabase APIs and engage with the community. Hosted by core members [Thor Schaeff](https://thorweb.dev/), [Jon Meyers](https://jonmeyers.io/), Alaister Young and [Tyler Shukert](https://dshukertjr.dev/).
+- [Supabase Developer Stories](https://www.youtube.com/watch?v=QAm1x7KaLq4&list=PL5S4mPUpp4OuzQN-a_FY3OZQuYo4NmXvb) - An ongoing series where SaaS founders/co-founders that use Supabase to showcase their products.
+- [CityJS 2022 Talk on Building Billy with Supabase](https://www.youtube.com/watch?v=UiANV3uqT04&t=6841s) - A talk on how a React Native expense tracker side project is built with Supabase, by a SupaSquad member [Estee Tey](https://esteetey.dev/).
+- [Build An Image Gallery With Supabase Storage and React](https://www.youtube.com/watch?v=8tfdY0Sf2rA) - A tutorial on using Supabase to upload & serve images.
+- [PMF is one pivot away with Ant Wilson from Supabase](https://podcast.bitreach.io/episodes/product-market-fit-is-one-pivot-away-with-ant-wilson-founder-of-supabase) - Talks about Supabase's experiences of the phases before and after Product Market Fit (PMF).
+
 ## Integration Guides
 
 - [Firebase to Supabase](https://github.com/supabase-community/firebase-to-supabase) - A collection of guides of migrating from different components of Firebase such as Auth, Firestore, Storage, Functions to Supabase.
@@ -90,5 +91,3 @@ Featured at [Cloudflare x Supabase Developer Meetup](https://t.co/sqmDQahsA4). F
 
 - [How to market to developers on Twitter: Learnings from 4 months of Supabase feed](https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase) - Analyzes growth marketing strategy of Supabase, especially on Twitter.
 - [How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - Walks through the process of how Fleeting Notes (a note-taking application) migrated from Firebase to Supabase in terms of Stripe integration and its databases.
-- [PMF is one pivot away with Ant Wilson from Supabase](https://podcast.bitreach.io/episodes/product-market-fit-is-one-pivot-away-with-ant-wilson-founder-of-supabase) - Talks about Supabase's experiences of the phases before and after Product Market Fit (PMF).
-
