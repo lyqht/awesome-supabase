@@ -65,11 +65,6 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) - Collection of framework specific Cache utilities for working with Supabase.
 - [Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm) - Tool to run Postgres in the browser.
 
-## UI Libraries
-
-- [Supabase Auth UI](https://github.com/supabase-community/auth-ui) - A collection of pre built UI components that work seamlessly with [@supabase/auth-helpers](https://github.com/supabase/auth-helpers).
-
-
 ## Videos, Livestreams, Talks
 
 - [Is Supabase Legit? Firebase Alternative Breakdown](https://youtu.be/WiwfiVdfRIc) - Video by Fireship.io on Supabase.
