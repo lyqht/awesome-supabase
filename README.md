@@ -43,7 +43,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Vuepabase](https://github.com/JMaylor/vuepabase) - Vue3 Supabase starter, with Pinia, Vue-router 4, TailwindCSS, Vitest, Cypress and more.
 - [Supastarter](https://supastarter.dev) - Supabase starter with Next.js, authentication, mail templates, landing page, dashboard and blog.
 - [RedwoodJS Supabase Quickstart](https://github.com/redwoodjs/redwoodjs-supabase-quickstart) - Supabase Quickstart example app with RedwoodJS.
-- [Basejump](https://usebasejump.com) - Next.js starter with teams, personal accounts, invitations, Tailwind, i18n. Fully tested schema.
+- [Basejump](https://usebasejump.com) - Open source Next.js starter with teams, personal accounts, invitations, Tailwind, i18n. Fully tested schema.
 ## Data Migration Tools
 
 - [Supabase Schema](https://supabase-schema.vercel.app/) - Generate SQL scripts and database diagram with this handy tool. No sensitive information is required, only need the project url + anonymous key.
@@ -92,3 +92,4 @@ Featured at [Cloudflare x Supabase Developer Meetup](https://t.co/sqmDQahsA4). F
 
 - [How to market to developers on Twitter: Learnings from 4 months of Supabase feed](https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase) - Analyzes growth marketing strategy of Supabase, especially on Twitter.
 - [How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - Walks through the process of how Fleeting Notes (a note-taking application) migrated from Firebase to Supabase in terms of Stripe integration and its databases.
+- [Ultimate guide to testing on Supabase using pgTAP(https://usebasejump.com/blog/testing-on-supabase-with-pgtap)
