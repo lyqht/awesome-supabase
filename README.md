@@ -65,6 +65,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) - Collection of framework specific Cache utilities for working with Supabase.
 - [Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm) - Tool to run Postgres in the browser.
 - [Bemi for Supabase JS](https://github.com/BemiHQ/bemi-supabase-js) - Open-source platform for automatic data change tracking.
+- [Edge Worker](https://pgflow.dev) - Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.
 
 ## Online Courses
 
