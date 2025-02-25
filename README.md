@@ -44,6 +44,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supastarter](https://supastarter.dev) - Supabase starter with Next.js, authentication, mail templates, landing page, dashboard and blog.
 - [RedwoodJS Supabase Quickstart](https://github.com/redwoodjs/redwoodjs-supabase-quickstart) - Supabase Quickstart example app with RedwoodJS.
 - [Basejump](https://usebasejump.com) - Open source Next.js starter with teams, personal accounts, invitations, Tailwind, i18n. Fully tested schema.
+- [SupaSasS Lite](https://github.com/Razikus/supabase-nextjs-template) - Open source Next.js SasS template (with 2FA, and example app) 
 
 ## Data Migration Tools
 
