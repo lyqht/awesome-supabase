@@ -65,6 +65,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) - Collection of framework specific Cache utilities for working with Supabase.
 - [Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm) - Tool to run Postgres in the browser.
 - [Bemi for Supabase JS](https://github.com/BemiHQ/bemi-supabase-js) - Open-source platform for automatic data change tracking.
+- [Supabase automated self host](https://github.com/singh-inder/supabase-automated-self-host) - Self-host Supabase with Caddy and Authelia. Just run ONE script.
 
 ## Online Courses
 
