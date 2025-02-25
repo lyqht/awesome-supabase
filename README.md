@@ -44,8 +44,8 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supastarter](https://supastarter.dev) - Supabase starter with Next.js, authentication, mail templates, landing page, dashboard and blog.
 - [RedwoodJS Supabase Quickstart](https://github.com/redwoodjs/redwoodjs-supabase-quickstart) - Supabase Quickstart example app with RedwoodJS.
 - [Basejump](https://usebasejump.com) - Open source Next.js starter with teams, personal accounts, invitations, Tailwind, i18n. Fully tested schema.
-- [Supanext](https://www.supanext.com/) - Supabase starter with Next.js, including AI app examples, auth, billing, settings, landing page, blog, and more. 
-- [SupaSasS Lite](https://github.com/Razikus/supabase-nextjs-template) - Open source Next.js SasS template (with 2FA, and example app) 
+- [Supanext](https://www.supanext.com/) - Supabase starter with Next.js, including AI app examples, auth, billing, settings, landing page, blog, and more.
+- [SupaSasS Lite](https://github.com/Razikus/supabase-nextjs-template) - Open source Next.js SasS template (with 2FA, and example app)
 
 ## Data Migration Tools
 
@@ -91,7 +91,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [How to Manage Your Supabase Database with Directus](https://directus.io/guides/directus-plus-supabase/) - Directus Studio provides a means to browse, manage, and visualize database content through a no-code app and this guide shows how to setup Supabase with Directus.
 - [Supabase admin panel tutorial with Retool](https://retool.com/blog/supabase-tutorial-admin-panel/) - Retool helps teams to build internal tools quickly. Learn how to setup an admin panel using Retool and Supabase.
 - [Set up a monorepo with Supabase and Turborepo](https://philipp.steinroetter.com/posts/supabase-turborepo) - Talks about how a codebase is migrated to a turborepo-powered pnpm monorepo that ships 3 NextJS apps, a Preact widget, a React Native app and two Fastify servers out of a single repository, all speaking to the same Supabase instance.
-- [How to Implement RBAC (Role-Based Access Control) in Supabase](https://www.permit.io/blog/how-to-implement-rbac-in-supabase) - Learn how to implement Role-Based Access Control (RBAC) authorization into a Supabase application with Permit.io
+- [How to Implement RBAC (Role-Based Access Control) in Supabase](https://www.permit.io/blog/how-to-implement-rbac-in-supabase) - Learn how to implement Role-Based Access Control (RBAC) authorization into a Supabase application with Permit.io.
 
 ## Other interesting articles
 
