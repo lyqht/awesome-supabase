@@ -14,7 +14,7 @@ To add something to the list, create a PR that adheres to the following guidelin
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - For suggested packages, they should be tested and documented.
-- Toy/ BATA (Build and throw away) projects are not allowed. 
+- Toy/ BATA (Build and throw away) projects are not allowed.
 - Side projects are ok to be added if they help users to achieve a use case (they should be under Community Tools).
 - For items, use the following format: `[resource](link) - Description.`
 - Use [title-casing](http://titlecapitalization.com) (AP style).
@@ -25,7 +25,7 @@ To add something to the list, create a PR that adheres to the following guidelin
 - Start the description with a capital and end with a full stop/period.
 ### PR guidelines
 
-- Before you create the PR, install `awesome-lint` and run it on your changes. This is a plugin created by the father of all awesome-lists. If your changes introduces new error(s) — please fix those before creating the PR. This helps the maintainer to reduce menial work.
+- Before you create the PR, please run `npx awesome-lint` on your changes. This is a plugin created by the father of all awesome-lists. If your changes introduces new error(s) — please fix those before creating the PR. This helps the maintainer to reduce menial work.
 - The pull request should have a meaningful title and include a link to the package / resource and why it's awesome.
 
 Thank you for your suggestions!
