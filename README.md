@@ -8,15 +8,17 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contents
 
-- [Official Starters](#official-starters)
-- [Community Starters](#community-starters)
-- [Data Migration Tools](#data-migration-tools)
-- [Supabase DX Tools](#supabase-dx-tools)
-- [Community Tools](#community-tools)
-- [Online Courses](#online-courses)
-- [Videos, Podcasts, Livestreams, Talks](#videos-podcasts-livestreams-talks)
-- [Integration Guides](#integration-guides)
-- [Other interesting articles](#other-interesting-articles)
+- [Awesome Supabase ](#awesome-supabase-)
+  - [Contents](#contents)
+  - [Official Starters](#official-starters)
+  - [Community Starters](#community-starters)
+  - [Data Migration Tools](#data-migration-tools)
+  - [Supabase DX Tools](#supabase-dx-tools)
+  - [Community Tools](#community-tools)
+  - [Online Courses](#online-courses)
+  - [Videos, Podcasts, Livestreams, Talks](#videos-podcasts-livestreams-talks)
+  - [Integration Guides](#integration-guides)
+  - [Other interesting articles](#other-interesting-articles)
 
 ## Official Starters
 
@@ -46,6 +48,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Basejump](https://usebasejump.com) - Open source Next.js starter with teams, personal accounts, invitations, Tailwind, i18n. Fully tested schema.
 - [Supanext](https://www.supanext.com/) - Supabase starter with Next.js, including AI app examples, auth, billing, settings, landing page, blog, and more.
 - [SupaSasS Lite](https://github.com/Razikus/supabase-nextjs-template) - Open source Next.js SasS template (with 2FA, and example app)
+- [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit 🧩
 
 ## Data Migration Tools
 
