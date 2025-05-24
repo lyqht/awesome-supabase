@@ -8,17 +8,15 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contents
 
-- [Awesome Supabase ](#awesome-supabase-)
-  - [Contents](#contents)
-  - [Official Starters](#official-starters)
-  - [Community Starters](#community-starters)
-  - [Data Migration Tools](#data-migration-tools)
-  - [Supabase DX Tools](#supabase-dx-tools)
-  - [Community Tools](#community-tools)
-  - [Online Courses](#online-courses)
-  - [Videos, Podcasts, Livestreams, Talks](#videos-podcasts-livestreams-talks)
-  - [Integration Guides](#integration-guides)
-  - [Other interesting articles](#other-interesting-articles)
+- [Official Starters](#official-starters)
+- [Community Starters](#community-starters)
+- [Data Migration Tools](#data-migration-tools)
+- [Supabase DX Tools](#supabase-dx-tools)
+- [Community Tools](#community-tools)
+- [Online Courses](#online-courses)
+- [Videos, Podcasts, Livestreams, Talks](#videos-podcasts-livestreams-talks)
+- [Integration Guides](#integration-guides)
+- [Other interesting articles](#other-interesting-articles)
 
 ## Official Starters
 
