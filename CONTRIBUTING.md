@@ -23,6 +23,7 @@ To add something to the list, create a PR that adheres to the following guidelin
 - Link to the GitHub repo, not npmjs.com.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
+
 ### PR guidelines
 
 - Before you create the PR, please run `npx awesome-lint` on your changes. This is a plugin created by the father of all awesome-lists. If your changes introduces new error(s) — please fix those before creating the PR. This helps the maintainer to reduce menial work.
