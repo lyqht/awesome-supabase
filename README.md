@@ -72,6 +72,8 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Bemi for Supabase JS](https://github.com/BemiHQ/bemi-supabase-js) - Open-source platform for automatic data change tracking.
 - [Supabase automated self host](https://github.com/singh-inder/supabase-automated-self-host) - Self-host Supabase with Caddy and Authelia. Just run ONE script.
 - [Edge Worker](https://pgflow.dev) - Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.
+- [ChangelogKit](https://github.com/snowman95/changelogkit) - SaaS changelog management tool with embeddable widget and email notifications. Uses Supabase Auth, DB, and Row Level Security for multi-tenant access control.
+- [TechPulse API](https://github.com/snowman95/techpulse-api) - AI-curated developer news REST API. Uses Supabase as the data store for daily news digests with category filtering and importance scoring.
 
 ## Online Courses
 
