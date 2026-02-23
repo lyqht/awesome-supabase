@@ -61,6 +61,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supabase CLI](https://supabase.com/docs/reference/cli) - The Supabase CLI provides tools to develop your project locally and deploy to the Supabase Platform.
 - [Supabase SQL](https://database.dev/) - Find common use case SQL scripts easily for copy pasting.
 - [Supabase Plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects, going beyond the possibilities of the regular Supabase CLI.
+- [Supabase Edge Toolkit](https://github.com/spyrae/supabase-edge-toolkit) - Production-tested standard library for Supabase Edge Functions with error handling, validation, auth, resilience, logging, and testing utilities.
 
 ## Community Tools
 
