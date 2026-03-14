@@ -72,6 +72,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Bemi for Supabase JS](https://github.com/BemiHQ/bemi-supabase-js) - Open-source platform for automatic data change tracking.
 - [Supabase automated self host](https://github.com/singh-inder/supabase-automated-self-host) - Self-host Supabase with Caddy and Authelia. Just run ONE script.
 - [Edge Worker](https://pgflow.dev) - Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.
+- [OpenHive](https://github.com/arseneHuot/openhive) - Open-source, self-hosted Slack alternative with channels, DMs, threads, reactions, file uploads, and video/audio calls. Uses Supabase Auth, Realtime, Storage, and Edge Functions with 23 auto-provisioned tables.
 
 ## Online Courses
 
