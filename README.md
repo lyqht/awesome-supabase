@@ -6,6 +6,7 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 
 To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Supabase workflow orchestration, automated backend-as-a-service management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Official Starters](#official-starters)
