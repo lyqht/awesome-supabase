@@ -65,6 +65,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 
 ## Community Tools
 
+- [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Free, open-source learning management system for Bible schools and ministries. Built with React, FastAPI, and Supabase (Auth, Database with RLS, Storage). ([Live Demo](https://biblie-school-frontend.vercel.app))
 - [MadeWithSupabase](https://www.madewithsupabase.com/) - App to explore projects made with Supabase. Users can find by specific Supabase functionality used or via user-given tags, and also find projects submitted in specific calendar months.
 - [Octokit-lite](https://github.com/lyqht/Octokit-lite) - App to perform common use case GitHub operations on multiple repositories efficiently. Uses Supabase Auth and DB.
 - [Generate Supabase Database Types GitHub Action](https://github.com/lyqht/generate-supabase-db-types-github-action) - GitHub action to generate types based on your Supabase database.
