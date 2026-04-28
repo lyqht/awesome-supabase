@@ -73,6 +73,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Bemi for Supabase JS](https://github.com/BemiHQ/bemi-supabase-js) - Open-source platform for automatic data change tracking.
 - [Supabase automated self host](https://github.com/singh-inder/supabase-automated-self-host) - Self-host Supabase with Caddy and Authelia. Just run ONE script.
 - [Edge Worker](https://pgflow.dev) - Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.
+- [Puppyone](https://github.com/puppyone-ai/puppyone) - Open-source file system for AI agents, built on Supabase (Postgres + Auth) with FastAPI. Auto-versioned writes, file-level access control (FLS), audit logs, and 15+ data connectors syncing external sources as agent-readable files. Self-hostable via Docker Compose.
 
 ## Online Courses
 
