@@ -8,15 +8,17 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contents
 
-- [Official Starters](#official-starters)
-- [Community Starters](#community-starters)
-- [Data Migration Tools](#data-migration-tools)
-- [Supabase DX Tools](#supabase-dx-tools)
-- [Community Tools](#community-tools)
-- [Online Courses](#online-courses)
-- [Videos, Podcasts, Livestreams, Talks](#videos-podcasts-livestreams-talks)
-- [Integration Guides](#integration-guides)
-- [Other interesting articles](#other-interesting-articles)
+- [Awesome Supabase ](#awesome-supabase-)
+  - [Contents](#contents)
+  - [Official Starters](#official-starters)
+  - [Community Starters](#community-starters)
+  - [Data Migration Tools](#data-migration-tools)
+  - [Supabase DX Tools](#supabase-dx-tools)
+  - [Community Tools](#community-tools)
+  - [Online Courses](#online-courses)
+  - [Videos, Podcasts, Livestreams, Talks](#videos-podcasts-livestreams-talks)
+  - [Integration Guides](#integration-guides)
+  - [Other interesting articles](#other-interesting-articles)
 
 ## Official Starters
 
@@ -73,6 +75,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Bemi for Supabase JS](https://github.com/BemiHQ/bemi-supabase-js) - Open-source platform for automatic data change tracking.
 - [Supabase automated self host](https://github.com/singh-inder/supabase-automated-self-host) - Self-host Supabase with Caddy and Authelia. Just run ONE script.
 - [Edge Worker](https://pgflow.dev) - Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.
+- [StatusPageBuddy](https://www.statuspagebuddy.com/) - Free hosted status pages for indie developers, built on Supabase Auth and RLS for multi-tenant isolation. 
 
 ## Online Courses
 
