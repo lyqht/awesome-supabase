@@ -48,6 +48,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [SupaSasS Lite](https://github.com/Razikus/supabase-nextjs-template) - Open source Next.js SasS template (with 2FA, and example app)
 - [SupaSocial](https://github.com/koji0701/supabase-react-social-media-starter/tree/main) - React social media starter with auth, friend requests, profile pics, and example app (profile, friends, signin, leaderboard, and more pages).
 - [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit.
+- [Altair](https://github.com/dr-h-cyber/Altair) - Professional Services Automation starter with resourcing timeline, capacity/utilization, monthly revenue snapshots, RLS, and Casbin-based RBAC. React + TypeScript + Vite.
 
 ## Data Migration Tools
 
