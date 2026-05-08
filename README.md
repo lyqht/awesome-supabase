@@ -73,6 +73,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Bemi for Supabase JS](https://github.com/BemiHQ/bemi-supabase-js) - Open-source platform for automatic data change tracking.
 - [Supabase automated self host](https://github.com/singh-inder/supabase-automated-self-host) - Self-host Supabase with Caddy and Authelia. Just run ONE script.
 - [Edge Worker](https://pgflow.dev) - Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.
+- [JobSprout](https://jobsprout.ai) - AI-powered CV and cover letter builder built on Supabase, using React Router, Typst, and Vercel AI SDK.
 
 ## Online Courses
 
