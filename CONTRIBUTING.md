@@ -16,6 +16,9 @@ To add something to the list, create a PR that adheres to the following guidelin
 - For suggested packages, they should be tested and documented.
 - Toy/ BATA (Build and throw away) projects are not allowed.
 - Side projects are ok to be added if they help users to achieve a use case (they should be under Community Tools).
+- Community Tools / DX Tools submissions must include a link to the open-source project repository.
+- Community Tools / DX Tools submissions must include testimonial links from real users (X/LinkedIn/Reddit, etc.) who are not the project creator.
+- Community Tools / DX Tools submissions that are not open-source will be closed.
 - For items, use the following format: `[resource](link) - Description.`
 - Use [title-casing](http://titlecapitalization.com) (AP style).
 - New categories, or improvements to the existing categorization are welcome.
@@ -28,5 +31,8 @@ To add something to the list, create a PR that adheres to the following guidelin
 
 - Before you create the PR, please run `npx awesome-lint` on your changes. This is a plugin created by the father of all awesome-lists. If your changes introduces new error(s) — please fix those before creating the PR. This helps the maintainer to reduce menial work.
 - The pull request should have a meaningful title and include a link to the package / resource and why it's awesome.
+- For Community Tools / DX Tools pull requests, include:
+  - Open-source project repository link.
+  - Testimonial links from users (not the creator) on X/LinkedIn/Reddit (or similar).
 
 Thank you for your suggestions!
