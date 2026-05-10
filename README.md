@@ -55,6 +55,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Heroku to Supabase Importer](https://migrate.supabase.com/) - Given Heroku is ending free-tier support soon, if you have any PostgreSQL DB that you want to continue supporting on your projects, migrating to Supabase will be a good choice. With this tool, it will be a breeze to migrate over. Here's [a guide](https://supabase.com/docs/guides/migrations/heroku) with a video for this migration process.
 - [Supabase DB to Google Sheets](https://github.com/jadynekena/supabase-googlesheet) - Tool to pull Supabase data into Google Sheets.
 - [Retool REST API data generator](https://retool.com/api-generator) - Tool to generate structured data to be inserted into your PostgresDB.
+- [Lovable Cloud to Supabase Exporter](https://github.com/dreamlit-ai/lovable-cloud-to-supabase-exporter) - Migrate tables, users, and storage from Lovable Cloud to your own Supabase backend without password resets or manual CSV work.
 
 ## Supabase DX Tools
 
@@ -72,6 +73,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Bemi for Supabase JS](https://github.com/BemiHQ/bemi-supabase-js) - Open-source platform for automatic data change tracking.
 - [Supabase automated self host](https://github.com/singh-inder/supabase-automated-self-host) - Self-host Supabase with Caddy and Authelia. Just run ONE script.
 - [Edge Worker](https://pgflow.dev) - Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.
+- [Supabase DataFlows SMS Hook](https://github.com/dataflows-au/supabase-sms-hook) - Send phone OTP verification via DataFlows SMS API. Australian alternative to Twilio for Supabase Auth.
 - [Pharos AI](https://github.com/Juliusolsson05/pharos-ai) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and AI-powered briefs.
 
 ## Online Courses
