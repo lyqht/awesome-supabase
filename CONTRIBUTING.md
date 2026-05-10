@@ -17,7 +17,7 @@ To add something to the list, create a PR that adheres to the following guidelin
 - Toy/ BATA (Build and throw away) projects are not allowed.
 - Side projects are ok to be added if they help users to achieve a use case (they should be under Community Tools).
 - Community Tools / DX Tools submissions must include a link to the open-source project repository.
-- Community Tools / DX Tools submissions must include testimonial links from real users (X/LinkedIn/Reddit, etc.) who are not the project creator.
+- Community Tools / DX Tools submissions must include testimonial links from real users (X/LinkedIn/Reddit, etc.) who are not the project creator. There needs to be users advocating for the use of your project; otherwise, it does not make sense why it should be on the awesome list.
 - Community Tools / DX Tools submissions that are not open-source will be closed.
 - For items, use the following format: `[resource](link) - Description.`
 - Use [title-casing](http://titlecapitalization.com) (AP style).
