@@ -62,6 +62,8 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supabase CLI](https://supabase.com/docs/reference/cli) - The Supabase CLI provides tools to develop your project locally and deploy to the Supabase Platform.
 - [Supabase SQL](https://database.dev/) - Find common use case SQL scripts easily for copy pasting.
 - [Supabase Plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects, going beyond the possibilities of the regular Supabase CLI.
+- [supabase-security-skill](https://github.com/Perufitlife/supabase-security-skill) - Open-source MIT auditor that finds RLS gaps, public storage buckets, SECURITY DEFINER functions callable by anon, and anon-grant residue (relevant to the Oct 30, 2026 default change). Probes anonymously to confirm each leak live, then outputs an HTML report with copy-paste fix SQL.
+- [supabase-security-mcp](https://www.npmjs.com/package/@perufitlife/supabase-security-mcp) - MCP server that lets AI coding agents (Claude Code, Cursor, Cline) run the security audit via natural language: "audit my Supabase project ref xxx".
 
 ## Community Tools
 
