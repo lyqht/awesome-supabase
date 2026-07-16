@@ -75,6 +75,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Edge Worker](https://pgflow.dev) - Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.
 - [Supabase DataFlows SMS Hook](https://github.com/dataflows-au/supabase-sms-hook) - Send phone OTP verification via DataFlows SMS API. Australian alternative to Twilio for Supabase Auth.
 - [Pharos AI](https://github.com/Juliusolsson05/pharos-ai) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and AI-powered briefs.
+- [Zornade Studio](https://github.com/zornade/zornade-studio) - Open-source (AGPL-3.0) no-code map editor built with MapLibre GL JS and Supabase, used to publish the parcel-level risk and price maps behind [Zornade](https://app.zornade.com)'s Italian cadastral intelligence platform.
 
 ## Online Courses
 
