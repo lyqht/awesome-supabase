@@ -99,6 +99,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supabase admin panel tutorial with Retool](https://retool.com/blog/supabase-tutorial-admin-panel/) - Retool helps teams to build internal tools quickly. Learn how to setup an admin panel using Retool and Supabase.
 - [Set up a monorepo with Supabase and Turborepo](https://philipp.steinroetter.com/posts/supabase-turborepo) - Talks about how a codebase is migrated to a turborepo-powered pnpm monorepo that ships 3 Next.js apps, a Preact widget, a React Native app and two Fastify servers out of a single repository, all speaking to the same Supabase instance.
 - [How to Implement RBAC (Role-Based Access Control) in Supabase](https://www.permit.io/blog/how-to-implement-rbac-in-supabase) - Learn how to implement Role-Based Access Control (RBAC) authorization into a Supabase application with Permit.io.
+- [Integrate Clerk with Supabase](https://clerk.com/docs/integrations/databases/supabase) - Official guide for using Clerk as the auth provider for Supabase, including RLS policies.
 
 ## Other interesting articles
 
