@@ -62,6 +62,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supabase CLI](https://supabase.com/docs/reference/cli) - The Supabase CLI provides tools to develop your project locally and deploy to the Supabase Platform.
 - [Supabase SQL](https://database.dev/) - Find common use case SQL scripts easily for copy pasting.
 - [Supabase Plus](https://github.com/dsplce-co/supabase-plus) - An extra set of tools for managing Supabase projects, going beyond the possibilities of the regular Supabase CLI.
+- [Supabase RLS Monitor](https://github.com/cekuu35/supabase-rls-monitor) - Scan your schema for RLS misconfigurations such as anon-readable tables and exposed service-role keys, and get the exact fix SQL for each finding.
 
 ## Community Tools
 
