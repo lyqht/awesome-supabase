@@ -75,6 +75,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Edge Worker](https://pgflow.dev) - Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.
 - [Supabase DataFlows SMS Hook](https://github.com/dataflows-au/supabase-sms-hook) - Send phone OTP verification via DataFlows SMS API. Australian alternative to Twilio for Supabase Auth.
 - [Pharos AI](https://github.com/Juliusolsson05/pharos-ai) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and AI-powered briefs.
+- [ProdGuard](https://github.com/Felix0731/prodguard) - CLI that fails the build when a commit disables a security control instead of fixing it, covering RLS turned off or never enabled, over-broad grants, policies with no `TO` clause, and `SECURITY DEFINER` functions callable by `anon`. Written for the guards AI coding agents remove to make something work.
 
 ## Online Courses
 
