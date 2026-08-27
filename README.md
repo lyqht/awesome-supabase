@@ -103,6 +103,8 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 
 ## Other interesting articles
 
+- [Why Supabase RLS is Slow (and How to Fix It)](https://blog.rowistan.com/2026/08/why-supabase-rls-is-slow.html) - Technical breakdown of PostgreSQL Row-Level Security performance overhead, subquery behavior, and execution plan optimization.
+- [How to Fix the Supabase RLS tenant_id IN Subquery Anti-Pattern](https://blog.rowistan.com/2026/08/supabase-rls-tenant-id-in-fix.html) - Practical guide to optimizing multi-tenant RLS checks by replacing expensive subqueries with fast JWT claims.
 - [How to market to developers on Twitter: Learnings from 4 months of Supabase feed](https://www.developermarkepear.com/blog/developer-marketing-on-social-media-twitter-supabase) - Analyzes growth marketing strategy of Supabase, especially on Twitter.
 - [How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - Walks through the process of how Fleeting Notes (a note-taking application) migrated from Firebase to Supabase in terms of Stripe integration and its databases.
 - [Ultimate guide to testing on Supabase using pgTAP](https://usebasejump.com/blog/testing-on-supabase-with-pgtap) - How to test RLS policies and requests to Supabase.
