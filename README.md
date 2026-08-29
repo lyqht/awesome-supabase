@@ -100,6 +100,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Set up a monorepo with Supabase and Turborepo](https://philipp.steinroetter.com/posts/supabase-turborepo) - Talks about how a codebase is migrated to a turborepo-powered pnpm monorepo that ships 3 Next.js apps, a Preact widget, a React Native app and two Fastify servers out of a single repository, all speaking to the same Supabase instance.
 - [How to Implement RBAC (Role-Based Access Control) in Supabase](https://www.permit.io/blog/how-to-implement-rbac-in-supabase) - Learn how to implement Role-Based Access Control (RBAC) authorization into a Supabase application with Permit.io.
 - [Integrate Clerk with Supabase](https://clerk.com/docs/guides/development/integrations/databases/supabase) - Official guide for using Clerk as the auth provider for Supabase, including RLS policies.
+- [Supabase MCP Safe Setup for Cursor and Claude Code](https://fixrls.dev/supabase-mcp-safe-setup) - Guardrails for connecting AI coding tools to Supabase without leaking service_role or secret keys.
 
 ## Other interesting articles
 
@@ -108,3 +109,6 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Ultimate guide to testing on Supabase using pgTAP](https://usebasejump.com/blog/testing-on-supabase-with-pgtap) - How to test RLS policies and requests to Supabase.
 - [Migrating from Firebase to Supabase: Lessons Learned](https://emergence-engineering.com/blog/firestore-supabase-migration) - A detailed walkthrough of the migration workflow in terms of the various aspects of the BaaS, and their differences in terms of realtime subscriptions and data types.
 - [Supabase vs Firebase: Choosing the Right Backend for Your Project](https://www.jakeprins.com/blog/supabase-vs-firebase-2024) - A detailed comparison between Supabase and Firebase. Discover the key differences between the two platforms and the advantages of choosing Supabase over Firebase.
+- [Fix "New Row Violates Row-Level Security Policy" in Supabase](https://fixrls.dev/new-row-violates-row-level-security-policy) - Troubleshooting guide for the common INSERT/UPDATE error when a WITH CHECK policy rejects the new row.
+- [Supabase Service Role Key: Safe Usage and Exposure Checklist](https://fixrls.dev/supabase-service-role-key) - Checklist for keeping the service_role key off the client and rotating it after exposure.
+- [Supabase Anon Key Exposed: Safe or Dangerous?](https://fixrls.dev/supabase-anon-key-exposed) - Explains when a public anon key is expected and when missing RLS makes it dangerous.
