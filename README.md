@@ -77,7 +77,6 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supabase DataFlows SMS Hook](https://github.com/dataflows-au/supabase-sms-hook) - Send phone OTP verification via DataFlows SMS API. Australian alternative to Twilio for Supabase Auth.
 - [Pharos AI](https://github.com/Juliusolsson05/pharos-ai) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and AI-powered briefs.
 - [Supabase RLS Leak Demo](https://github.com/cekuu35/supabase-rls-leak-demo) - A reproducible row-level-security data leak and its one-file fix; same test suite, red on the broken branch, green on the fixed one. No Docker, no cloud project.
-- [RLS Guard](https://github.com/cekuu35/rls-guard) - GitHub Action that fails CI when common Supabase/Postgres RLS regressions appear in the public schema, with a self-testing workflow.
 
 ## Online Courses
 
