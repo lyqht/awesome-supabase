@@ -100,6 +100,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Set up a monorepo with Supabase and Turborepo](https://philipp.steinroetter.com/posts/supabase-turborepo) - Talks about how a codebase is migrated to a turborepo-powered pnpm monorepo that ships 3 Next.js apps, a Preact widget, a React Native app and two Fastify servers out of a single repository, all speaking to the same Supabase instance.
 - [How to Implement RBAC (Role-Based Access Control) in Supabase](https://www.permit.io/blog/how-to-implement-rbac-in-supabase) - Learn how to implement Role-Based Access Control (RBAC) authorization into a Supabase application with Permit.io.
 - [Integrate Clerk with Supabase](https://clerk.com/docs/guides/development/integrations/databases/supabase) - Official guide for using Clerk as the auth provider for Supabase, including RLS policies.
+- [Connect Supabase to a No-Code App With AppStruct](https://blog.appstruct.ai/blog/no-code-database-integration-guide-2025#connect-supabase-to-a-no-code-builder) - Walkthrough of Supabase connection settings, authentication and database actions in AppStruct, with a two-record validation checklist.
 
 ## Other interesting articles
 
