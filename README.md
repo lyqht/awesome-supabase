@@ -100,6 +100,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Set up a monorepo with Supabase and Turborepo](https://philipp.steinroetter.com/posts/supabase-turborepo) - Talks about how a codebase is migrated to a turborepo-powered pnpm monorepo that ships 3 Next.js apps, a Preact widget, a React Native app and two Fastify servers out of a single repository, all speaking to the same Supabase instance.
 - [How to Implement RBAC (Role-Based Access Control) in Supabase](https://www.permit.io/blog/how-to-implement-rbac-in-supabase) - Learn how to implement Role-Based Access Control (RBAC) authorization into a Supabase application with Permit.io.
 - [Integrate Clerk with Supabase](https://clerk.com/docs/guides/development/integrations/databases/supabase) - Official guide for using Clerk as the auth provider for Supabase, including RLS policies.
+- [Accept Bitcoin Payments on Supabase With OpenReceive](https://openreceive.org/platforms/supabase) - Guide to Lightning checkout that keeps payment attempts in your Supabase PostgreSQL database next to your orders, pays straight into your own wallet, and covers Edge Functions and Supabase Auth.
 
 ## Other interesting articles
 
