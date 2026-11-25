@@ -48,6 +48,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [SupaSasS Lite](https://github.com/Razikus/supabase-nextjs-template) - Open source Next.js SasS template (with 2FA, and example app)
 - [SupaSocial](https://github.com/koji0701/supabase-react-social-media-starter/tree/main) - React social media starter with auth, friend requests, profile pics, and example app (profile, friends, signin, leaderboard, and more pages).
 - [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit.
+- [Hikari](https://github.com/coremvp/Hikari) - Open source Next.js starter with Supabase Auth, Stripe subscriptions, docs and blog.
 
 ## Data Migration Tools
 
@@ -75,6 +76,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Edge Worker](https://pgflow.dev) - Open-source serverless task queue worker that runs on Supabase Edge Functions (Background Tasks) and Supabase Queues. It simplifies consuming the queues and adds useful features like concurrency control, retries, and observability.
 - [Supabase DataFlows SMS Hook](https://github.com/dataflows-au/supabase-sms-hook) - Send phone OTP verification via DataFlows SMS API. Australian alternative to Twilio for Supabase Auth.
 - [Pharos AI](https://github.com/Juliusolsson05/pharos-ai) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive maps, OSINT feeds, and AI-powered briefs.
+- [Reylo](https://github.com/reylosql/reylo) - Import .sql files into TypeScript with types inferred from the Supabase database, and run them through postgres.js or pg.
 
 ## Online Courses
 
@@ -109,3 +111,4 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Migrating from Firebase to Supabase: Lessons Learned](https://emergence-engineering.com/blog/firestore-supabase-migration) - A detailed walkthrough of the migration workflow in terms of the various aspects of the BaaS, and their differences in terms of realtime subscriptions and data types.
 - [Supabase vs Firebase: Choosing the Right Backend for Your Project](https://www.jakeprins.com/blog/supabase-vs-firebase-2024) - A detailed comparison between Supabase and Firebase. Discover the key differences between the two platforms and the advantages of choosing Supabase over Firebase.
 - [Supabase's Oct 30 Grants Change: What Breaks, and the Fix That Leaks](https://shipsealed.com/rls/supabase-october-30-grants-change/) - Why new tables return 42501 after Oct 30, the bulk GRANT that exposes RLS-off tables, and the migration pattern that works.
+- [Self-Hosted Supabase in Production](https://github.com/shsunmoonlee/self-hosted-supabase) - Handbook for running self-hosted Supabase after install, covering backups, upgrades, hardening and monitoring, with read-only check scripts.
